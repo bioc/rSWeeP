@@ -1,7 +1,11 @@
 Package: rSWeeP
 Type: Package
 Title: Spaced Words Projection (SWeeP) 
+<<<<<<< HEAD
 Version: 1.18.1
+=======
+Version: 1.19.0
+>>>>>>> f6bf6d803c9428578853b42958fdbd5d4b8cd1a2
 Date: 2024-04-28
 Authors@R: c(
     person(given = "Camila Pereira",
